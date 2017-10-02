@@ -8,7 +8,7 @@ int main()
 	test2;
 	hello
 		
-	let's go;
+	nononon let's go;
 	so happy;
 	return 0;
 }
