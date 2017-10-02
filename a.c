@@ -6,5 +6,6 @@ int main()
 
 	yes;
 	test2;
+	hello
 	return 0;
 }
