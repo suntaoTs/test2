@@ -7,5 +7,6 @@ int main()
 	yes;
 	test2;
 	hello
+	test1;
 	return 0;
 }
