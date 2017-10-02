@@ -8,6 +8,5 @@ int main()
 	test2;
 	hello
 		
-	let's go;
 	return 0;
 }
