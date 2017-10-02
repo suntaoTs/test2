@@ -7,6 +7,7 @@ int main()
 	yes;
 	test2;
 	hello
-	test1;
+		
+	let's go;
 	return 0;
 }
